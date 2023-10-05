@@ -15,7 +15,6 @@ function App() {
         <FancyCard />
         <ActionCard/>
         <ContactList/>
-        {/* <FancyCard /> */}
       </View>
     </ScrollView>
 
